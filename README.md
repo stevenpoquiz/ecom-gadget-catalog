@@ -37,7 +37,7 @@ The website consists of three main pages:
 ## Project Structure
 
 ```text
-ecom/
+ecom-gadget-catalog/
 ├── assets/
 │   ├── icons/
 │   └── images/
@@ -78,7 +78,7 @@ To view the website locally:
 2. Navigate to the project directory:
 
    ```bash
-   cd ecom-gadget_catalog
+   cd ecom-gadget-catalog
    ```
 
 3. Open `src/pages/home.html` in your preferred web browser.
