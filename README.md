@@ -10,6 +10,17 @@ The website focuses on simplicity, organized product presentation, and a consist
 
 This project is developed using **HTML and CSS**, focusing on frontend structure, styling, layout organization, and visual design.
 
+## Website Preview
+
+### Home Page
+![GADGETOPIA Home Page](ui_reference/GT_Home.png)
+
+### Catalog Page
+![GADGETOPIA Catalog Page](ui_reference/GT_Catalog.jpg)
+
+### About Page
+![GADGETOPIA About Page](ui_reference/GT_About.png)
+
 ## Pages
 
 The website consists of three main pages:
